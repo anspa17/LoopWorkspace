@@ -41,8 +41,6 @@ jobs:
           dexcom_upload_readings \
           override_sens \
           now_line \
-          lnl_icon \
-          customtypeone_looppatches \
           2002 \
           algorithm_experiments \
           testflight_expiration_warning
